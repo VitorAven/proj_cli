@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/04/2016, 16:07:37
+    Author     : VitorHugo
+*/
+
+.tx_branco{
+    color: #fff !important;
+}
+
+.user-panel>.info{
+    position: static !important;
+    left: 0px !important;
+    height: 60px !important;
+}
